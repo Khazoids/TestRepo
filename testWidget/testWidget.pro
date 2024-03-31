@@ -13,11 +13,14 @@ SOURCES += \
     mainwindow.cpp \
     model.cpp \
     testfiles.cpp
+    testaddition.cpp
+
 
 HEADERS += \
     mainwindow.h \
     model.h \
     testfiles.h
+    testaddition.h
 
 FORMS += \
     mainwindow.ui
